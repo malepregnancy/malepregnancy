@@ -1,2 +1,1 @@
-<p align="center"><img width="500" height="900" alt="QgmPzNE" src="https://static.wikia.nocookie.net/houkai-star-rail/images/7/7d/Character_Hyacine_Splash_Art.png/revision/latest/scale-to-width-down/1000?cb=20250521031729" /></p>
-<p align="center"><a href="https://saps.atabook.org/"><img width=175" height="75" alt="atabook" src="https://github.com/user-attachments/assets/4cf5a7f6-89ba-41e1-8a64-b5df111aaaba" /></a><img width="300" height="300" alt="3tu0c6N" src="https://i.imgur.com/8vJoK8z.png"></p>
+<p align="center"><img width="500" height="900" alt="QgmPzNE" src="https://i.imgur.com/d1VFDom.png" /></p><p align="center"><a href="https://saps.atabook.org/"><img width="500" height="500" alt="atabook" src="https://i.imgur.com/KZosKaH.png"/></a>
