@@ -2,7 +2,7 @@
 
 <img src="https://media1.tenor.com/m/cIkUhEGg8M0AAAAC/persona-3-reload-persona-3.gif" align="center">
 </br>
-${\textsf{\color{#81a7d6}chuu}}$ㅤㅤㅤㅤㅤ${\textsf{\color{#5377e6}he/him}}$
+${\textsf{\color{#81a7d6}chuu}}$ㅤㅤㅤㅤㅤ${\textsf{\color{#5377e6}he}}$/${\textsf{\color{#5377e6}him}}$
 </br>
 ${\textsf{\color{#5377e6}5teen}}$
 ${\textsf{\color{#3d66e0}iwc}}$
