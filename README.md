@@ -1,7 +1,7 @@
 <!--main-->
 <p align="center">
 
-<img src="https://i.imgur.com/t1JOcf1.gif" align="center" height="400px">
+<img src="https://i.imgur.com/t1JOcf1.gif" align="center" size="50%">
 </br></br>
 ${\textsf{\color{#81a7d6}chuu}}$ ㅤㅤ                    ${\textsf{\color{#5377e6}he}}$ / ${\textsf{\color{#5377e6}him}}$
 </br>
