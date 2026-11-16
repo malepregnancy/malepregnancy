@@ -5,7 +5,7 @@
 </br></br>
 ${\textsf{\color{#81a7d6}chuu}}$ ㅤㅤ                    ${\textsf{\color{#5377e6}he}}$ / ${\textsf{\color{#5377e6}him}}$
 </br>
-${\textsf{\color{#83a0f7}5teen}}$ ㅤㅤ                    ${\textsf{\color{#3d66e0}iwc}}$
+${\textsf{\color{#6684de}5teen}}$ ㅤㅤ                    ${\textsf{\color{#3d66e0}iwc}}$
 <!--other--!>
 
 <details><summary>shame</summary><img src="https://i.imgur.com/GRW5j1E.png"><br/>its nice that you think my skin is good but please make your own next time<br/><br/><p align="center"></details>
