@@ -3,9 +3,9 @@
 
 <img src="https://i.imgur.com/t1JOcf1.gif" align="center" width="300">
 </br></br>
-${\textsf{\color{#81a7d6}chuu}}$ ㅤㅤ                    ${\textsf{\color{#5377e6}he}}$ / ${\textsf{\color{#5377e6}him}}$
+$${\color{#81a7d6}\text{chuu}}$$ ㅤㅤ                    $${\color{#5377e6}\text{he}}$$ / $${\color{#5377e6}\text{him}}$$
 </br>
-${\textsf{\color{#5488d1}5teen}}$ ㅤㅤ                    ${\textsf{\color{#3d66e0}iwc}}$
+$${\color{#5488d1}\text{5teen}}$$ ㅤㅤ                    $${\color{#3d66e0}\text{iwc}}$$
 <!--other--!>
 
 <details><summary>shame</summary><img src="https://i.imgur.com/GRW5j1E.png"><br/>its nice that you think my skin is good but please make your own next time<br/><br/><p align="center"></details>
