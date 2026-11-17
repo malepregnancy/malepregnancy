@@ -2,7 +2,7 @@
 <br><br>
 <p align="center">
   <img src="https://i.imgur.com/t1JOcf1.gif" width="300"><br><br>
-  $\color{#81a7d6}\mathsf{chuu}$ ㅤㅤ $\color{#5377e6}he$ ㅤ/ㅤ $\color{#5377e6}him$<br>
+  $\color{#81a7d6}chuu$ ㅤㅤ $\color{#5377e6}he$ ㅤ/ㅤ $\color{#5377e6}him$<br>
   $\color{#5488d1}5teen$ ㅤㅤㅤ $\color{#3d66e0}iwc$
 </p>
 
