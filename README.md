@@ -1,4 +1,5 @@
 <!--main-->
+<br><br>
 <p align="center">
   <img src="https://i.imgur.com/t1JOcf1.gif" width="300"><br><br>
   $\color{#81a7d6}chuu$ ㅤㅤ $\color{#5377e6}he$ ㅤ/ㅤ $\color{#5377e6}him$<br>
